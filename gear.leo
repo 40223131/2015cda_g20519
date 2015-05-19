@@ -359,8 +359,8 @@ window.open(document.cda.DDlinks.options[number].value);
 
 　&lt;option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_1.md"&gt;40223102吳佳容&lt;/option&gt;
 　&lt;option value="http://2015cd0512-40223104.rhcloud.com/"&gt;40223104林瑩禎&lt;/option&gt;
-　&lt;option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrumaster.md"&gt;40223105侯云亭&lt;/option&gt;
-　&lt;option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_2.md"&gt;40223106許芸瑄&lt;/option&gt;
+　&lt;option value="http://2015cd0512-40223105.rhcloud.com/"&gt;40223105侯云亭&lt;/option&gt;
+　&lt;option value="http://cda0519-40223106.rhcloud.com/"&gt;40223106許芸瑄&lt;/option&gt;
     &lt;option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_3.md"&gt;40223107黃雯琪&lt;/option&gt;
     &lt;option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_4.md"&gt;40023107陳儀芳&lt;/option&gt;
 &lt;/select&gt;
@@ -1641,7 +1641,7 @@ def spuraction(self, N=20,M=5, P=15):
     output += "齒數為"+str(N)+"&lt;br /&gt;"
     output += "模數為"+str(M)+"&lt;br /&gt;"
     output += "壓力角為"+str(P)+"&lt;br /&gt;"
-    output +='''&lt;br /&gt;&lt;a href="/spur1"&gt;spur1&lt;/a&gt;(按下後再輸入)&lt;br /&gt;'''
+    output +='''&lt;br /&gt;&lt;a href="/spur"&gt;spur&lt;/a&gt;(按下後再輸入)&lt;br /&gt;'''
     output +='''&lt;br /&gt;&lt;a href="index2"&gt;index2&lt;/a&gt;&lt;br /&gt;
     &lt;/body&gt;
     &lt;/html&gt;

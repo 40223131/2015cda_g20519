@@ -156,8 +156,8 @@ class Hello(object):
 
     　<option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_1.md">40223102吳佳容</option>
     　<option value="http://2015cd0512-40223104.rhcloud.com/">40223104林瑩禎</option>
-    　<option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrumaster.md">40223105侯云亭</option>
-    　<option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_2.md">40223106許芸瑄</option>
+    　<option value="http://2015cd0512-40223105.rhcloud.com/">40223105侯云亭</option>
+    　<option value="http://cda0519-40223106.rhcloud.com/">40223106許芸瑄</option>
         <option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_3.md">40223107黃雯琪</option>
         <option value="https://www.gitbook.com/book/40223131/2015cdag2_0421/edit#/edit/master/scrum_4.md">40023107陳儀芳</option>
     </select>
@@ -237,7 +237,7 @@ class Hello(object):
         output += "齒數為"+str(N)+"<br />"
         output += "模數為"+str(M)+"<br />"
         output += "壓力角為"+str(P)+"<br />"
-        output +='''<br /><a href="/spur1">spur1</a>(按下後再輸入)<br />'''
+        output +='''<br /><a href="/spur">spur</a>(按下後再輸入)<br />'''
         output +='''<br /><a href="index2">index2</a><br />
         </body>
         </html>
